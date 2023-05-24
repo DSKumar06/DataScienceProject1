@@ -1,2 +1,2 @@
 # DataScienceProject1
-DataScience Bike Rental Project1 repository
+DataScience Bike Rental Project1 repository.
